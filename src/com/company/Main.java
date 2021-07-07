@@ -1,5 +1,9 @@
 package com.company;
 
+//В текстовом файле через пробел записаны числа. Необходимо считать из и вывести в консоль:
+//Сумму чисел.
+//Самое большое и маленькое число.
+
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
